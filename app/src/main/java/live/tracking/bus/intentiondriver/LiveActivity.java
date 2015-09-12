@@ -47,6 +47,9 @@ public class LiveActivity extends ActionBarActivity implements GoogleApiClient.C
         mTextLocation = (TextView) findViewById(R.id.message);
         volleySingleton = VolleySingleton.getInstance();
         requestQueue = volleySingleton.getRequestQueue();
+        //some changes
+
+
 
     }
     protected synchronized void createGoogleClient(){
