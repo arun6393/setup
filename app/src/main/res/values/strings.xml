@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IntentionDriver</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="driver_id">Your Id</string>
+    <string name="bus_number">Bus Number</string>
+    <string name="bus_source">Source</string>
+    <string name="bus_destination">Destination</string>
+    <string name="button_start">Start</string>
+    <string-array name="stops">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string name="title_activity_live">LiveActivity</string>
+    <string name="button_stop">STOP</string>
+    <string name="action_activity2">Activity2</string>
+</resources>
